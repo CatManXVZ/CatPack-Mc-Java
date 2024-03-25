@@ -1,4 +1,5 @@
 <h1>CatPack V.1.20.2 fabric</h1>
+<h2><b>IMP: For full catpack experience please install ambeint sounds mod!!!</b></h2>
 <h3>Usage:</h3>
 <p>Copy the mods and place them into your minecraft/mods folder. You must have the a farbic 1.20.2 launcher.</p>
 <h5>Links:</h5>
